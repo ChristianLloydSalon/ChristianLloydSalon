@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="left">Hi 👋, I'm Christian Lloyd</h1>
 
 - 🌱 I’m currently learning ReactJS
 - 💬 Ask me about ...
