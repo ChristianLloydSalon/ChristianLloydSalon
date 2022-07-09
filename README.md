@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Christian Lloyd</h1>
 
 - 🌱 I’m currently learning ReactJS
-- 💬 Ask me about ...
+- 💬 Ask me about anything related to software engineering
 - 📫 Reach me @ **christianlloyd.b.salon@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
