@@ -1,5 +1,5 @@
 # 💫 About Me:
-Flutter Enthusiast<br>🌱 I’m currently learning ReactJS and NestJS
+Flutter Enthusiast<br>🌱 Fullstack Developer
 
 
 ## 🌐 Socials:
